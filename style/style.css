@@ -443,7 +443,6 @@ header .fa-bars {
 
 #sobrenos {
     padding: 40px;
-    background-color: #f2f2f2;
     margin-top: 100px;
   }
   
@@ -471,7 +470,38 @@ header .fa-bars {
   .grid-subitem {
     margin-bottom: 20px;
   }
-  
+  .contatotext p {
+    font-family: 'Bad Script', cursive;
+    font-size: 28px;
+    font-weight: 600;
+    margin-left: 20%;
+}
+
+.grid-container h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 54px;
+    margin-left: 10%;
+    color: orange;
+    
+}
+.grid-item-left h2 {
+    font-family: 'Amatic SC', cursive;
+    font-size: 54px;
+    margin-left: 10%;
+    color: orange;
+    text-align: center;
+
+}
+.grid-item-left p {
+    color: black;
+}
+.values-list li {
+    color: black;
+}
+.grid-subitem p {
+    color: black;
+}
+
   /* Estilo dos títulos */
   h2 {
     color: #333;
