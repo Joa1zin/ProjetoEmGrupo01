@@ -481,15 +481,15 @@ header .fa-bars {
     font-family: 'Amatic SC', cursive;
     font-size: 54px;
     margin-left: 10%;
-    color: orange;
+    color: rgba(255, 102, 0, 0.7);
     
 }
 .grid-item-left h2 {
     font-family: 'Amatic SC', cursive;
     font-size: 54px;
     margin-left: 10%;
-    color: orange;
-    text-align: center;
+    color:rgba(255, 102, 0, 0.7);
+    text-align: center; 
 
 }
 .grid-item-left p {
